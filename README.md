@@ -1,6 +1,7 @@
 # Simple-Calculator-Parser-Using-Racket
 Racket is a functional language. Parser was created off a simple calculator grammar in order to create a lexer and parser to see if some input file would be accepted or call an error whenever there is a syntax error and output **"Syntax erron on N line"**
 
+Mostly built using recursive decent in order to determine if the inputs can parse.
 
 ### The Following Grammar was used:
 LL(1) grammar for a simple calculator language. Top down predictive parser using this grammar.
