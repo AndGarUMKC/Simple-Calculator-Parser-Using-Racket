@@ -3,5 +3,6 @@ Racket is a functional language. Parser was created off a simple calculator gram
 
 
 ## The Following Grammar was used:
+LL(1) grammar for a simple calculator language.
 
 <img width="481" alt="image" src="https://user-images.githubusercontent.com/70826986/196506145-2ac3d208-79dd-4c99-94a0-a7a168d0c9fd.png">
