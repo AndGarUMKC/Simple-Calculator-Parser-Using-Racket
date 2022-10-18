@@ -1,2 +1,7 @@
 # Simple-Calculator-Parser-Using-Racket
 Racket is a functional language. Parser was created off a simple calculator grammar in order to create a lexer and parser to see if some input file would be accepted or call an error whenever there is a syntax error.
+
+
+## The Following Grammar was used:
+
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/70826986/196506145-2ac3d208-79dd-4c99-94a0-a7a168d0c9fd.png">
